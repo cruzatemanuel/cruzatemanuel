@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate student developer from Batangas, PH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cruzatemanuel&label=Profile%20views&color=0e75b6&style=flat" alt="cruzatemanuel" /> </p>
-
 - 🔭 I’m currently working on **Fare Tracking System**
 
 - 🌱 I’m currently learning **Full Stack Development**
