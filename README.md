@@ -34,13 +34,14 @@
 
 <p>
   <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200w.webp" width="55" alt="Python">&nbsp
-  <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200w.webp" width="55" alt="C++">&nbsp
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="55" alt="C++">&nbsp
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript">&nbsp
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="55" alt="HTML">&nbsp
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" alt="CSS">&nbsp
   <img src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="55" alt="MySQL">&nbsp
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="115" alt="Git">&nbsp
 </p>
+
 
 ---
 
