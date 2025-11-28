@@ -39,14 +39,3 @@
     <img src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="55" alt="MySQL">&nbsp 
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="115" alt="Git">&nbsp 
 </p>
-
-
-
----
-
-<p align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cruzatemanuel&show_icons=true&locale=en&layout=compact" alt="cruzatemanuel" /></p>
-</p>
-
-
-
